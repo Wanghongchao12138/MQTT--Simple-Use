@@ -10,8 +10,8 @@ EMQ 项目设计目标是承载移动终端或物联网终端海量 MQTT 连接�
  4. 完整物联网协议支持，MQTT、MQTT-SN、CoAP、WebSocket 或私有协议支持。
 
 ## 选择 MQTT  SDK 分为多种 
-	以下介绍其中的两种 [MQTTKit](https://github.com/jmesnil/MQTTKit) 和 [MQTT-Client-Framework](https://github.com/ckrey/MQTT-Client-Framework)  	
-`这两种都是OC 使用  Swift 版本可参考  [CocoaMQTT](https://github.com/emqtt/CocoaMQTT)`
+以下介绍其中的两种 [MQTTKit](https://github.com/jmesnil/MQTTKit) 和 [MQTT-Client-Framework](https://github.com/ckrey/MQTT-Client-Framework)  	
+这两种都是OC 使用  Swift 版本可参考  [CocoaMQTT](https://github.com/emqtt/CocoaMQTT)`
 1、 ** MQTTKit **  `已经不更新 但是基本使用没问题`
 > pod 'MQTTKit'    
 
